@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+body{
+    background: #012554;
+}
+
+
+img{
+    width: 100%;
+}
+
+
+h1{
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+p{
+    color: #FFFFFF;
+    font-size: 24px;
+    margin: 30px;
+    text-align: justify;
+}
+
+
+input{
+    display: block;
+    background: #F9F9F9;
+    border-radius: 5px;
+    border: 1px solid #E6E6E6;
+    height: 50px;
+    width: 386px;
+    margin-bottom: 20px;
+    padding: 11px 291px 11px 21px;
+    gap: 47px;
+}
+
+
+textarea{
+    display: block;
+    background: #F9F9F9;
+    border-radius: 5px;
+    border: 1px solid #E6E6E6;
+    height: 100px;
+    width: 386px;
+    margin-bottom: 20px;
+    padding: 11px 21px 11px 21px;
+    gap: 47px;
+}
+
+
+form{
+    background: #FFFFFF;
+    padding: 20px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10PX;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+
+button{
+    background: #012554;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width: 190px;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+button:hover{
+    opacity: 0.8;
+}
+
+
+.voltar{
+    background: #5470FF;
+}
+
+
+.contato{
+    background: #DFECFE;
+    color: #012554;
+}
+
+
+div{
+    transition: opacity 1s;
+}
