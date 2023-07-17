@@ -31,13 +31,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
   ## 💻 Projeto
 
-O Projeto Missão Game simula um site de Games ---------------------- e fazer contatos com o responsável.
+O Projeto Missão Game simula um site de Games, onde é possivel adquirir os produtos desejados e através disto entrar em contato com o responsável através de um formulário fornecido.
 
   <br>
  
 ## 🚩Funcionalidades
 
--  O Projeto simula um site de games, com poucos detalhes, mas mostra -------------------
+- Ao passar o mouse sobre o botão (Entrar em contato), o cursor transforma-se em uma maõzinha, ocorre uma opacidade tanto no botão quanto na página inteira, e logo é aberto um formulário, onde pode-se entrar em contato com o responsável e tais informações são encaminhadas para o e-mail fornecido.  
 
   <br>
 
