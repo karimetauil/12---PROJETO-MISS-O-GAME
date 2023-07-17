@@ -29,9 +29,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
   <br>
 
-## 💻 Projeto
+  ## 💻 Projeto
 
 O Projeto Missão Game simula um site de Games ---------------------- e fazer contatos com o responsável.
+
+  <br>
+ 
+## 🚩Funcionalidades
+
+-  O Projeto simula um site de games, com poucos detalhes, mas mostra -------------------
 
   <br>
 
