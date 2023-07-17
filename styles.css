@@ -39,7 +39,7 @@ input{
     height: 50px;
     width: 386px;
     margin-bottom: 20px;
-    padding: 11px 291px 11px 21px;
+    padding: 11px 21px;
     gap: 47px;
 }
 
@@ -52,7 +52,7 @@ textarea{
     height: 100px;
     width: 386px;
     margin-bottom: 20px;
-    padding: 11px 21px 11px 21px;
+    padding: 11px 21px;
     gap: 47px;
 }
 
@@ -73,12 +73,12 @@ form{
 button{
     background: #012554;
     border: none;
-    padding: 10px;
+    padding: 5px;
     border-radius: 5px;
-    width: 190px;
+    width: 250px;
     cursor: pointer;
     color: #FFFFFF;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 700;
     text-align: center;
 }
@@ -100,6 +100,14 @@ button:hover{
 }
 
 
-div{
+.caixa{
+    display: block;
     transition: opacity 1s;
+}
+
+
+div{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
 }
