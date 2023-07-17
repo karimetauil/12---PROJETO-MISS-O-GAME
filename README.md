@@ -37,7 +37,7 @@ O Projeto Missão Game simula um site de Games ---------------------- e fazer co
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/NLeHPJXuYE08PPmRce9nhP/Shopping-via-mobile-illustration?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/fm94ujssAxNUdcQriQIumy/Miss%C3%A3o-Programa%C3%A7%C3%A3o-do-ZERO-(Copy)?type=design&node-id=1579-2&mode=design&t=xSwktB9y8IVulukv-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
   <br>
 
